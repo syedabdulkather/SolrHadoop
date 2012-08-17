@@ -1,0 +1,4 @@
+SolrHadoop
+==========
+
+Solr With Hadoop 
